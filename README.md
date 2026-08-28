@@ -1,2 +1,3 @@
-# Sales_Analysis
+# Sales_Analysis 
 power bi
+sql
